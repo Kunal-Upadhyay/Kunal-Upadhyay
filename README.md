@@ -1,8 +1,17 @@
 ### Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Upadhyay&label=Profile%20views&color=red&style=flat" alt="Kunal-Upadhyay" /> </p>
+<p align="left"> <a href="https://instagram.com/code_with_kunal" target="blank"><img src="https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-19/s150x150/182833447_1209217089535473_3259063683807774380_n.jpg?_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_ohc=FckRnwre6wQAX8ayg_R&edm=ABfd0MgBAAAA&ccb=7-4&oh=b57964d31932a7c3338e026ea9046fb3&oe=61836D70&_nc_sid=7bff83" alt="@code_with_kunal" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/kunal_upadhyay_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal_upadhyay_official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kunalupadhyay_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kunalupadhyay_official" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kunal_upadhyay_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kunal_upadhyay_" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-upadhyay&show_icons=true&locale=en&layout=compact" alt="kunal-upadhyay" /></p>
 <!--
 **Kunal-Upadhyay/Kunal-Upadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  Languages and Tools :
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
