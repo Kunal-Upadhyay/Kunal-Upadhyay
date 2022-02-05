@@ -1,11 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=qGreetings,Programmers!👋;I'm+Kunal+Upadhyay...;This+is+my+profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,there!👋;I'm+Kunal+Upadhyay...;This+is+my+profile!&center=true&size=30">
   </a>
 </h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Upadhyay&label=Profile%20views&color=red&style=flat" alt="Kunal-Upadhyay" /> </p>
-<p align="left"> <a href="https://instagram.com/code_with_kunal" target="blank"><img src="https://instagram.fagr1-2.fna.fbcdn.net/v/t51.2885-19/s150x150/182833447_1209217089535473_3259063683807774380_n.jpg?_nc_ht=instagram.fagr1-2.fna.fbcdn.net&_nc_ohc=FckRnwre6wQAX8ayg_R&edm=ABfd0MgBAAAA&ccb=7-4&oh=b57964d31932a7c3338e026ea9046fb3&oe=61836D70&_nc_sid=7bff83" alt="@code_with_kunal" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kunal_upadhyay_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal_upadhyay_official" height="40" width="50" /></a>
