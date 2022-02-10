@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,there!👋;I'm+Kunal+Upadhyay...;This+is+my+profile!&center=true&size=25&font=Press+Start+2P&width=700">
-  </a>
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Upadhyay&label=Profile%20views&color=red&style=flat" alt="Kunal-Upadhyay" /> </p>
 <h3 align="left">Connect with me:</h3>
