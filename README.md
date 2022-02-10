@@ -1,5 +1,5 @@
 ![IMG](https://github.com/Kunal-Upadhyay/Kunal-Upadhyay/blob/main/PicsArt_05-09-07.58.28_1589120292091.png#gh-dark-mode-only)
-![IMG](https://github.com/Kunal-Upadhyay/Kunal-Upadhyay/blob/main/PicsArt_05-09-07.58.28_1589120292091.png#gh-light-mode-only)
+![IMG](https://github.com/Kunal-Upadhyay/Kunal-Upadhyay/blob/main/PicsArt_09-10-03.36.46.png#gh-light-mode-only)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,there!👋;I'm+Kunal+Upadhyay...;This+is+my+profile!&center=true&size=25&font=Press+Start+2P&width=700">
 </h1>
