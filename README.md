@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,there!👋;I'm+Kunal+Upadhyay...;This+is+my+profile!&center=true&size=25&font=Press+Start+2P&width=700">
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Upadhyay&label=Profile%20views&color=red&style=flat" alt="Kunal-Upadhyay" /> </p>
+
+[![@kunalupadhyay's Holopin board](https://holopin.me/kunalupadhyay)](https://holopin.io/@kunalupadhyay)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kunal_upadhyay_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal_upadhyay_official" height="40" width="50" /></a>
